@@ -1,0 +1,9 @@
+TheVale
+/thevale
+3
+127.0.0.1
+8668
+--- ROUTES ---
+DEFAULT 127.0.0.1 8667
+KingsLanding 127.0.0.1 8667
+Dragonstone *.*.*.* 0
